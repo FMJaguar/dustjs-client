@@ -1,0 +1,10 @@
+{
+  "name": "client-dust",
+  "description": "Test of dust.js templates",
+  "dependencies": {
+    "dustjs-linkedin": "~2.2.0",
+    "watch": "~0.8.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-dust": "~0.6.4"
+  }
+}
